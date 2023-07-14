@@ -1,3 +1,7 @@
+# Click to view the app 
+Open https://interviewhelperx.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
